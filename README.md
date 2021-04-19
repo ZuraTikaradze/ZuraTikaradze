@@ -1,9 +1,7 @@
 public class About extends Me {
-
     public String getCurrentWorkplace(){
         return "Deputy Head of Software Development at Georgia Revenue Service";
     }
-
     public Set<String> getDailyKnowledge(){
         Set<String> brainCells=new HashSet<>();
         brainCells.add("Java");
@@ -12,5 +10,4 @@ public class About extends Me {
         brainCells.add("Typescript");
         return brainCells;
     }
-    
 }
