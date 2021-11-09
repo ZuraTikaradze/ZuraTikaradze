@@ -1,7 +1,7 @@
     public class About extends Me {
     
         public String getCurrentWorkplace(){
-            return "Deputy Head of Software Development at Georgia Revenue Service";
+            return "Senior Software Engineer/Team Lead at EPAM";
         }
     
         public Set<String> getDailyKnowledge(){
